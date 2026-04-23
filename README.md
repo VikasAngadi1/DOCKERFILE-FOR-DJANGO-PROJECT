@@ -91,7 +91,7 @@ docker run -p 2003:2003 todo-app
 Image pushed to Docker Hub:
 
 ```bash
-docker pull YOUR_DOCKERHUB_USERNAME/todo-app
+docker pull vikas2128/todo-app:1.0
 ```
 
 ---
