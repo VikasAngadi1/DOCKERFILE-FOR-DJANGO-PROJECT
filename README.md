@@ -1,7 +1,7 @@
 ```markdown
 # 📝 Todo App (Django + Docker)
 
-A simple Todo web application built using **Django**, containerized with **Docker**, and orchestrated using **Docker Compose**. This project demonstrates end-to-end containerization, deployment, and image publishing to Docker Hub.
+A simple Todo wesite application built using **Django**, containerized with **Docker**, and orchestrated using **Docker Compose**. This project demonstrates end-to-end containerization, deployment, and image publishing to Docker Hub.
 
 ---
 
